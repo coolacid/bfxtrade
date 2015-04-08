@@ -1,3 +1,6 @@
+** No Longer Maintained **
+==========================
+
 bfxtrade
 ========
 
